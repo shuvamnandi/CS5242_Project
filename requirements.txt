@@ -1,0 +1,6 @@
+flickrapi
+pillow
+numpy
+requests
+torch
+torchvision
